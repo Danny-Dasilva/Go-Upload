@@ -1,2 +1,2 @@
 # Go-Upload
-Goland file upload server
+Golang file upload server
